@@ -6,8 +6,8 @@ export default function Navbar() {
     return (
         <>
             <div className=' flex items-center justify-between'>
-                <h1 className=' font-normal text-[30px]'>Flower Go</h1>
-                <div className=' flex items-center gap-10'>
+                <h1 className=' font-normal lg:text-[30px] text-lg'>Flower Go</h1>
+                <div className=' lg:flex items-center gap-10 hidden'>
                     <Link href='/'>Home</Link>
                     <Link href=''>Red Rose</Link>
                     <Link href=''>Lotus</Link>

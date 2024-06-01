@@ -12,7 +12,7 @@ export default function main() {
             <div className='absolute z-10 lg:block hidden bottom-0 lg:w-[150px] w-[75px]'>
                 <img src="images/bg-img1.svg" width={150} alt="" />
             </div>
-            <div className=' absolute z-10 right-0 top-24 lg:w-[180px] w-[90px]'>
+            <div className=' absolute z-10 right-0 top-24 lg:w-[140px] w-[90px]'>
                 <img src="images/bg-img2.svg" width={180} alt="" />
             </div>
         </>
